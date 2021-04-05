@@ -11,5 +11,5 @@ There are only 3 main requirements for this software to work
 3. heorku:
   1. heroku-account: Here you would also need a heroku account that you can directly create on [Heroku](https://heroku.com/)
   2. heroku-cli: You can download this cli version from [Heroku-cli](https://devcenter.heroku.com/articles/heroku-cli)
-4. Perseverance: This is really difficult to find on internet, find it yourself
+4. Perseverance and brain: This is really difficult to find on internet, find it yourself.
   
